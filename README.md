@@ -5,7 +5,7 @@
 **Asignatura:** Biomateriales 2026  
 **Profesora:** Gabriela Hinojosa  
 **Fecha:** Mayo 2026
-**Link de Presentacion** https://www.canva.com/d/VnvyYcbxuDqqSlV
+**Link de Presentacion** https://eldiabloviejoquebarbaroesteproyecto.my.canva.site/
 
 ---
 
