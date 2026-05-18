@@ -1,7 +1,7 @@
 # Caracterizacion Mecanica e Hidrodinamica de Malla Electronica Inyectable Compuesta de Polimero-Metal para Aplicaciones en Interfaces Cerebro-Computadora
 
 **Autor:** Christofer Martin Rojas Ruiz  
-**Institucion:** Universidad de Guadalajara — Centro Universitario de la Cienega (CUTLAJOMULCO)  
+**Institucion:** Universidad de Guadalajara — Centro Universitario de (CUTLAJOMULCO)  
 **Asignatura:** Biomateriales 2026  
 **Profesora:** Gabriela Hinojosa  
 **Fecha:** Mayo 2026
