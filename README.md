@@ -6,6 +6,7 @@
 **Profesora:** Gabriela Hinojosa  
 **Fecha:** Mayo 2026
 **Link de Presentacion** https://eldiabloviejoquebarbaroesteproyecto.my.canva.site/
+**Link de Presentacion en PDF** https://019df683-720b-7f3b-b1f3-546fb21b6eb1.claudeusercontent.com/v1/design/projects/019df683-720b-7f3b-b1f3-546fb21b6eb1/serve/Malla_Inyectable_Presentacion-print.html?t=9eda92042a85578bf955da5f2600c43acb5513f8b2a2239d8ece5b031f831fdd.228d8aa2-37ff-4645-bf79-ad61dc7aa436.5459dd04-0fe9-489c-ad33-201ad54ba5fc.1779147349&direct=1
 
 ---
 
