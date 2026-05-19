@@ -12,9 +12,6 @@
 
 
 
-
-<img width="2048" height="2048" alt="WVSbrn" src="https://github.com/user-attachments/assets/8bc4cdc3-16c0-42e8-8389-f44c19af3b7a" />
-
 ---
 
 ## Descripcion del Proyecto
@@ -188,3 +185,10 @@ El archivo `web/malla_inyectable_bci.html` puede abrirse directamente en cualqui
 ## Informacion Academica
 
 Este trabajo fue desarrollado en el marco del curso de **Biomateriales 2026** del Centro Universitario de la Cienega, Universidad de Guadalajara, bajo la supervision de la Profesora Gabriela Hinojosa. Representa una aproximacion *in silico* de caracter academico basada en parametros fisicos validados por la literatura cientifica de alto impacto.
+
+
+
+
+
+<img width="2048" height="2048" alt="WVSbrn" src="https://github.com/user-attachments/assets/8bc4cdc3-16c0-42e8-8389-f44c19af3b7a" />
+
